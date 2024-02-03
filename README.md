@@ -13,7 +13,7 @@ I find joy in bringing ideas to life through code and design.
 
 ## 💻 Tech Stack
 
-- Languages: Python, Jave, HTML, CSS, JavaScript
+- Languages: Python, Java, HTML, CSS, JavaScript
 - Frameworks: React.js
 - Tools: Figma, Git, VS Code
 
