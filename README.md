@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👋🏼
 
 I'm Mpil'enhle
 I find joy in bringing ideas to life through code and design.
