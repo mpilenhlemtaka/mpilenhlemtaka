@@ -6,7 +6,7 @@ I find joy in bringing ideas to life through code and design.
 ## 🚀 Quick Overview
 
 - 🔭 I’m currently studying Software Engineering.
-- 🌱 I’m exploring the realms of front-end development and UI/UX design.
+- 🌱 I’m exploring the realms of front-end development.
 - 👯 I’m eager to collaborate on projects that involve creativity and problem-solving.
 - 🤔 I’m constantly learning and embracing the ever-evolving tech landscape.
 - 💼 Seeking opportunities to grow and contribute in the tech world.
